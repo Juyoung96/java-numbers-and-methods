@@ -1,0 +1,18 @@
+/*
+ * Project: BiggerOne.java
+ * Description: Returns the bigger of 2 user input numbers
+ * Name: Juyoung Lee
+ * Date: Sept 23, 2015
+ */
+
+import java.util.Scanner;
+
+public class BiggerOne {
+  
+  public static void main( String[] args) {
+    
+    
+    
+  } // end main method
+  
+} // end class
